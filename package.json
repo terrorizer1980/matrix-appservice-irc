@@ -36,7 +36,7 @@
     "matrix-appservice-bridge": "^3.1.2",
     "matrix-org-irc": "^1.2.0",
     "nedb": "^1.1.2",
-    "nodemon": "^2.0.7",
+    "nodemon": "^3.0.0",
     "nopt": "^3.0.1",
     "p-queue": "^6.6.2",
     "pg": "^8.6.0",
